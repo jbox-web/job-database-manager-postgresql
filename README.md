@@ -34,6 +34,10 @@ These environment variables will be injected in the build :
 * `$PGSQL_HOST`
 * `$PGSQL_PORT`
 
+## See also
+
+There is also a MySQL variant of this plugin : https://github.com/jbox-web/job-database-manager-mysql
+
 ## Contribute
 
 You can contribute to this plugin in many ways such as :
