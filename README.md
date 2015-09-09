@@ -36,7 +36,7 @@ These environment variables will be injected in the build :
 
 ## See also
 
-There is also a MySQL variant of this plugin : https://github.com/jbox-web/job-database-manager-mysql
+There is also a MySQL variant of this plugin : [jbox-web/job-database-manager-mysql](https://github.com/jbox-web/job-database-manager-mysql)
 
 ## Contribute
 
