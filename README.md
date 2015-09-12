@@ -38,6 +38,10 @@ These environment variables will be injected in the build :
 
 There is also a MySQL variant of this plugin : [jbox-web/job-database-manager-mysql](https://github.com/jbox-web/job-database-manager-mysql)
 
+## Contributors
+
+A big thank to [them](https://github.com/jbox-web/job-database-manager-postgresql/blob/master/AUTHORS) for their contribution!
+
 ## Contribute
 
 You can contribute to this plugin in many ways such as :
