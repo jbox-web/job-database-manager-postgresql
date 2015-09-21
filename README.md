@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/jbox-web/job-database-manager-postgresql.svg)](https://github.com/jbox-web/job-database-manager-postgresql/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/jbox-web/job-database-manager-postgresql.svg)](https://github.com/jbox-web/job-database-manager-postgresql/releases/latest)
+[![Build Status](https://travis-ci.org/jbox-web/job-database-manager-postgresql.svg?branch=master)](https://travis-ci.org/jbox-web/job-database-manager-postgresql)
 [![Code Climate](https://codeclimate.com/github/jbox-web/job-database-manager-postgresql/badges/gpa.svg)](https://codeclimate.com/github/jbox-web/job-database-manager-postgresql)
 [![Download](https://img.shields.io/github/downloads/jbox-web/job-database-manager-postgresql/latest/job-database-manager-postgresql.hpi.svg)](https://github.com/jbox-web/job-database-manager-postgresql/releases/download/1.0.0/job-database-manager-postgresql.hpi)
 

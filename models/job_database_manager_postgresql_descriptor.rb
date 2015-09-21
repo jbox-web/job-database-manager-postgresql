@@ -15,17 +15,21 @@ class JobDatabaseManagerPostgresqlDescriptor < Jenkins::Model::DefaultDescriptor
   #
   include ::JenkinsPluginBase::BaseConfig
 
-  class << self
+  #
+  # Declare your plugin name here. (Will be use in XML file)
+  #
+  set_plugin_name 'job-database-manager-postgresql'
 
-    def plugin_name
-      JobDatabaseManagerPostgresql.plugin_name
-    end
-
-
-    def plugin_settings
-      JobDatabaseManagerPostgresql.plugin_settings
-    end
-
-  end
+  #
+  # Declare your global plugin settings here :
+  # <param name> => <default_value>
+  #
+  set_plugin_settings({
+    :db_user         => 'jenkins',
+    :db_password     => 'jenkins',
+    :db_server_host  => '127.0.0.1',
+    :db_server_port  => '5432',
+    :db_bin_path     => '/usr/bin/psql'
+  })
 
 end
